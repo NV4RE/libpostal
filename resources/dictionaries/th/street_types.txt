@@ -1,10 +1,8 @@
-ซอย
-soi|sxy
+ซอย|ซ.|s.|soi
 ซอยเทศบาล
-soi thetsaban|sxy theṣ̄bāl|sxy tesbal
-ถนน
-thanon|t̄hnn|thnn
+แยก|ย.
+ถนน|ถ.|thanon|tanon
 ทางด่วน
 ไฮเวย์
-ตรอก
-trok|trxk
+ตรอก|trok
+ซอก
